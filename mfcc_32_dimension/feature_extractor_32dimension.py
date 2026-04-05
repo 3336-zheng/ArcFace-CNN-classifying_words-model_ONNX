@@ -1,4 +1,5 @@
 # smart_home_feature_extractor.py
+#32维特征提取器 - 包含数据预处理、特征提取和保存功能
 import librosa
 import numpy as np
 import pandas as pd
